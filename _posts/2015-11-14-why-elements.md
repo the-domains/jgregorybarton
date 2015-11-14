@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-14T15:22:15.850Z'
-dateModified: '2015-11-14T15:21:46.567Z'
+description: Because only the universe creates ex nihlo
+datePublished: '2015-11-14T15:25:04.912Z'
+dateModified: '2015-11-14T15:24:58.214Z'
 title: Why Elements
+sourcePath: _posts/2015-11-14-why-elements.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-14-why-elements.md
-published: true
 url: why-elements/index.html
 _type: Article
 
