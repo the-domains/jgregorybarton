@@ -5,18 +5,18 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-14T15:27:19.792Z'
-dateModified: '2015-11-14T15:26:35.565Z'
+description: "Creation is an ongoing act, so are you aware of what you're creating?"
+datePublished: '2015-11-14T15:42:04.257Z'
+dateModified: '2015-11-14T15:41:39.671Z'
 title: Act of Creation
+sourcePath: _posts/2015-11-14-act-of-creation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-14-act-of-creation.md
-published: true
 url: act-of-creation/index.html
 _type: Article
 
