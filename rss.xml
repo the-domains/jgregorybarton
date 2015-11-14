@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Creation in Real Life]]></title>
+        <description><![CDATA[Creation in Real Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 Nov 2015 15:20:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Act of Creation]]></title>
+            <description><![CDATA[<article><h1>Act of Creation</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla arcu arcu, lobortis sit amet feugiat id, suscipit at justo. In hac habitasse platea dictumst. Integer luctus nunc augue. Curabitur quis leo sit amet nulla facilisis venenatis. Phasellus lobortis velit a tellus suscipit rutrum. Duis hendrerit arcu eu sapien suscipit sit amet accumsan massa imperdiet. Suspendisse cursus posuere pharetra. Pellentesque ut enim tellus. Morbi a lobortis risus. Aliquam pharetra quam sit amet ligula mattis ut pretium lectus imperdiet. Praesent nunc nibh, cursus a sollicitudin a, tristique quis nibh. Morbi rutrum fringilla malesuada.
+
+Mauris et arcu in diam ultrices eleifend at ac urna. Aliquam elementum turpis pretium lorem accumsan luctus sagittis sem euismod. Vivamus ultricies magna ut risus volutpat rutrum. Integer ac odio ante. Maecenas ante massa, viverra non euismod a, scelerisque non arcu. Sed ut euismod velit. Donec in elit nisi. Integer scelerisque nisi sit amet ante elementum a consectetur mi interdum. Praesent orci est, luctus ut bibendum quis, viverra et nunc. Nam ultricies vestibulum diam id suscipit. Aenean pulvinar suscipit dapibus. Duis porttitor, enim ac ullamcorper blandit, est quam viverra tellus, sit amet ultrices mi ipsum eu augue. Fusce ultrices turpis in mauris luctus accumsan. Etiam condimentum eleifend odio, ut varius nunc gravida in. Sed adipiscing rutrum cursus.
+
+</p></article>]]></description>
+            <link>undefinedact-of-creation/index.html</link>
+            <guid isPermaLink="false">de1bfd00-0819-43b1-b845-deffc05115f4</guid>
+            <pubDate>Sat, 14 Nov 2015 15:20:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
