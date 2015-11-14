@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-14T15:20:11.750Z'
-dateModified: '2015-11-14T15:19:59.323Z'
+datePublished: '2015-11-14T15:27:19.792Z'
+dateModified: '2015-11-14T15:26:35.565Z'
 title: Act of Creation
 authors: []
 publisher:
