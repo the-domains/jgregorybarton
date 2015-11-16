@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Because only the universe creates ex nihlo
-datePublished: '2015-11-14T15:25:04.912Z'
-dateModified: '2015-11-14T15:24:58.214Z'
+datePublished: '2015-11-16T03:12:29.652Z'
+dateModified: '2015-11-14T15:25:04.912Z'
 title: Why Elements
 sourcePath: _posts/2015-11-14-why-elements.md
 published: true
