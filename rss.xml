@@ -4,27 +4,25 @@
         <description><![CDATA[Creation in Real Life]]></description>
         <link>https://thegrid.ai/jgregorybarton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 15:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:44:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jgregorybarton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Color Test]]></title>
+            <description><![CDATA[<article><h1>Color Test</h1><p>Testing Once Again</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09ac739-d383-44e6-abb9-a641916b3370.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jgregorybarton/why-elements/index.html</link>
+            <guid isPermaLink="false">8a1eb9d5-332c-4656-8f01-964606c5a86e</guid>
+            <pubDate>Wed, 31 Aug 2016 12:44:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Act of Creation]]></title>
-            <description><![CDATA[<article><h1>Act of Creation</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla arcu arcu, lobortis sit amet feugiat id, suscipit at justo. In hac habitasse platea dictumst. Integer luctus nunc augue. Curabitur quis leo sit amet nulla facilisis venenatis. Phasellus lobortis velit a tellus suscipit rutrum. Duis hendrerit arcu eu sapien suscipit sit amet accumsan massa imperdiet. Suspendisse cursus posuere pharetra. Pellentesque ut enim tellus. Morbi a lobortis risus. Aliquam pharetra quam sit amet ligula mattis ut pretium lectus imperdiet. Praesent nunc nibh, cursus a sollicitudin a, tristique quis nibh. Morbi rutrum fringilla malesuada.
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla arcu arcu, lobortis sit amet feugiat id, suscipit at justo. In hac habitasse platea dictumst. Integer luctus nunc augue. Curabitur quis leo sit amet nulla facilisis venenatis. Phasellus lobortis velit a tellus suscipit rutrum. Duis hendrerit arcu eu sapien suscipit sit amet accumsan massa imperdiet. Suspendisse cursus posuere pharetra. Pellentesque ut enim tellus. Morbi a lobortis risus. Aliquam pharetra quam sit amet ligula mattis ut pretium lectus imperdiet. Praesent nunc nibh, cursus a sollicitudin a, tristique quis nibh. Morbi rutrum fringilla malesuada.
 
 Mauris et arcu in diam ultrices eleifend at ac urna. Aliquam elementum turpis pretium lorem accumsan luctus sagittis sem euismod. Vivamus ultricies magna ut risus volutpat rutrum. Integer ac odio ante. Maecenas ante massa, viverra non euismod a, scelerisque non arcu. Sed ut euismod velit. Donec in elit nisi. Integer scelerisque nisi sit amet ante elementum a consectetur mi interdum. Praesent orci est, luctus ut bibendum quis, viverra et nunc. Nam ultricies vestibulum diam id suscipit. Aenean pulvinar suscipit dapibus. Duis porttitor, enim ac ullamcorper blandit, est quam viverra tellus, sit amet ultrices mi ipsum eu augue. Fusce ultrices turpis in mauris luctus accumsan. Etiam condimentum eleifend odio, ut varius nunc gravida in. Sed adipiscing rutrum cursus.
 
-</p></article>]]></description>
+</p>]]></description>
             <link>https://thegrid.ai/jgregorybarton/act-of-creation/index.html</link>
             <guid isPermaLink="false">de1bfd00-0819-43b1-b845-deffc05115f4</guid>
             <pubDate>Sat, 14 Nov 2015 15:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Elements]]></title>
-            <description><![CDATA[<article><h1>Why Elements</h1><p>Hubby hubba. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla arcu arcu, lobortis sit amet feugiat id, suscipit at justo. In hac habitasse platea dictumst. Integer luctus nunc augue. Curabitur quis leo sit amet nulla facilisis venenatis. Phasellus lobortis velit a tellus suscipit rutrum. Duis hendrerit arcu eu sapien suscipit sit amet accumsan massa imperdiet. Suspendisse cursus posuere pharetra. Pellentesque ut enim tellus. Morbi a lobortis risus. Aliquam pharetra quam sit amet ligula mattis ut pretium lectus imperdiet. Praesent nunc nibh, cursus a sollicitudin a, tristique quis nibh. Morbi rutrum fringilla malesuada.
-
-</p></article>]]></description>
-            <link>https://thegrid.ai/jgregorybarton/why-elements/index.html</link>
-            <guid isPermaLink="false">8a1eb9d5-332c-4656-8f01-964606c5a86e</guid>
-            <pubDate>Sat, 14 Nov 2015 15:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
