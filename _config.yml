@@ -1,20 +1,4 @@
-name: jgregorybarton
-favicon: null
-layout_spectrum: 0.75369
 typography_spectrum: 0.26024
-title: Creation in Real Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e0c78e'
@@ -26,4 +10,23 @@ color:
   lightness: 0.125
   saturation: 0
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75369
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: j Gregory Barton
+  email: jgregorybarton@gmail.com
+name: jgregorybarton
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Creation in Real Life
 purpose: []
